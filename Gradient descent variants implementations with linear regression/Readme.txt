@@ -1,0 +1,1 @@
+Implementation of Gradient Descent algorithm in different variations (Batch/Mini-batch/Stochastic) and with (Momentum update/NAG/Adagrad/RMSProp/Adam)
